@@ -14,15 +14,9 @@ import Prime from './components/Prime';
 import News from './components/News';
 import List from './components/List';
 import Footer from './components/Footer';
-import AOS from 'aos';
-import 'aos/dist/aos.css';
-import { useEffect } from 'react';
 
 
 function App() {
-  useEffect(() => {
-    AOS.init({ once: true, });
-  }, []);
   return (
     <>
       <Header />
