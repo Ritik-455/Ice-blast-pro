@@ -14,7 +14,7 @@ function Behind() {
                 <div className="container d-flex flex-column align-items-center pb-34 mt-lg-4">
                     <Commonheading text="Behind the Scenes Dry Ice Blasting a Car" color="text-white" align="text-center" width="max-w-489 33" />
                     <p className=' ff-acumin-reg text-16 lh-24 text-white mb-0 max-w-558 text-center mt-3'>From the initial setup to the final sweep, discover how we elevate car cleaning to an art form, delivering immaculate results every time.</p>
-                    <div className=" mt-50 position-relative"><img src={blastcenter} alt="blastcenter" className=' max-w-1140 w-100'/>
+                    <div className=" mt-50 position-relative" data-aos="zoom-in"><img src={blastcenter} alt="blastcenter" className=' max-w-1140 w-100'/>
                         <div className="position-absolute play-pos2">
                             <Play />
                         </div>

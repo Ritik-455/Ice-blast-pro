@@ -10,7 +10,7 @@ function Cleaning() {
             <div className="bg-cleaning">
                 <div className="container mt-cleaing mb-3">
                     <div className="row">
-                        <div className="col-12 col-lg-6">
+                        <div className="col-12 col-lg-6" data-aos="zoom-in">
                             <Commonheading text="The Future of Car Cleaning" color="color-darkblue" width="max-w-351" />
                             <p className=' ff-acumin-reg text-16 lh-24 color-darkblue mb-0 max-w-558 mt-3'>No need to be overwhelmed by the thought of harsh chemicals and abrasive cleaning methods. Our dry ice blasting leaves your car spotless, reaching where no cloth can.</p>
                             <div className="d-flex gap-3 mt-4">
@@ -42,7 +42,7 @@ function Cleaning() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-12 col-lg-6 mt-3 mt-lg-0">
+                        <div className="col-12 col-lg-6 mt-3 mt-lg-0" data-aos="zoom-in">
                             <div className="position-relative"><img src={Clean} alt="clean" className=' max-w-558 w-100' />
                                 <div className="position-absolute play-pos">
                                     <Play />

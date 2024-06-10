@@ -13,7 +13,7 @@ function Understanding() {
                 <div className="container">
                     <Commonheading text="Understanding Dry Ice Blasting" color="text-white" align=" text-center" />
                     <div className="row py-under">
-                        <div className="col-12 col-lg-6 d-flex flex-column justify-content-center">
+                        <div className="col-12 col-lg-6 d-flex flex-column justify-content-center" data-aos="zoom-in">
                             <p className=' ff-acumin-bold text-24 lh-36 text-white mb-0'>What is Dry Ice Blasting?</p>
                             <p className=' ff-acumin-reg text-18 lh-27 text-white mb-0 op-90 mt-2 max-w-558'>Dry ice blasting is an innovative cleaning technology that uses solid CO2 (carbon dioxide) pellets. These pellets are propelled at high speeds to clean surfaces. Unlike traditional cleaning methods, this process does not involve water or abrasive materials, making it incredibly safe and effective for delicate areas like engine bays, undercarriages, and even car interiors.</p>
                         </div>
@@ -31,7 +31,7 @@ function Understanding() {
                             <img src={blastleft} alt="blastleft" className=' w-100 d-xxl-none' />
 
                         </div>
-                        <div className="col-12 col-lg-6">
+                        <div className="col-12 col-lg-6" data-aos="zoom-in">
                             <p className=' ff-acumin-bold text-24 lh-36 text-white mb-0'>How Does Dry Ice Blasting Work?</p>
                             <p className=' ff-acumin-reg text-18 lh-27 text-white mb-0 op-90 mt-2 max-w-558'>The process begins with the dry ice pellets being accelerated in a jet of compressed air, similar to sandblasting but with a crucial difference. Upon contact with the surface, the dry ice pellets undergo sublimation - they turn directly from solid to gas without becoming liquid. This reaction creates a micro-explosion on the surface, lifting dirt and contaminants away.</p>
                         </div>

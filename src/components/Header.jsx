@@ -37,14 +37,14 @@ function Header() {
                 </div>
                 <Navbar />
                 <div className="container pt-87 pb-hero" id="home">
-                    <h1 className=' ff-tilt text-96 lh-md-115 text-white mb-0 text-center'>Automotive Dry<span className="d-lg-block"> Ice Cleaning</span></h1>
-                    <p className=' ff-acumin-reg text-20 lh-30 text-center text-white mb-0 mt-3'>Discover the ultimate clean for your machine.
+                    <h1 className=' ff-tilt text-96 lh-md-115 text-white mb-0 text-center' data-aos="fade-up">Automotive Dry<span className="d-lg-block"> Ice Cleaning</span></h1>
+                    <p className=' ff-acumin-reg text-20 lh-30 text-center text-white mb-0 mt-3' data-aos="fade-up">Discover the ultimate clean for your machine.
                         <span className="d-lg-block">No chemicals, no abrasives and no drama.</span></p>
                     <div className="d-flex justify-content-center">
                         <Comnbtn text="Get Instant Quote" spacing="mt-40" />
                     </div>
                     <div className="d-flex justify-content-center mt-40">
-                        <div className="blur_box">
+                        <div className="blur_box" data-aos="fade-up">
                             <div className="d-flex align-items-center gap-28 flex-wrap">
                                 <div className="d-flex gap-12 align-items-end">
                                     <div className="tick_circle d-flex justify-content-center align-items-center">

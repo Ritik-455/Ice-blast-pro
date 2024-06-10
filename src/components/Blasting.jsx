@@ -12,7 +12,7 @@ function Blasting() {
             <div className="container pb-blasting" id="service">
                 <Commonheading text="Why Choose Dry Ice Blasting for Your Car?" color="text-black" align=" text-center" />
                 <div className="row mt-4 mt-lg-5">
-                    <div className="col-12 col-md-6 d-flex align-items-center">
+                    <div className="col-12 col-md-6 d-flex align-items-center" data-aos="fade-up">
                         <div className="">
                             <div className="d-flex gap-12">
                                 <img src={clean} alt="clean" />
@@ -44,7 +44,7 @@ function Blasting() {
                             </div>
                         </div>
                     </div>
-                    <div className="col-12 col-md-6 mt-3 d-md-flex align-items-center d-lg-block">
+                    <div className="col-12 col-md-6 mt-3 d-md-flex align-items-center d-lg-block" data-aos="zoom-out">
                         <img src={blast} alt="blast" className=' w-100 max-w-558' />
                     </div>
                 </div>

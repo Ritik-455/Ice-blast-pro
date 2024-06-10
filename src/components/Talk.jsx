@@ -13,7 +13,7 @@ function Talk() {
                 </div>
                 <Helper />
                 <div className="d-flex justify-content-center mt-40">
-                    <div className="instant-box d-flex flex-column align-items-center">
+                    <div className="instant-box d-flex flex-column align-items-center" data-aos="zoom-in">
                         <p className=' ff-tilt text-32 lh-44 text-black mb-0 text-center'>Get an Instant Quote Today</p>
                         <p className=' ff-acumin-reg text-16 lh-24 text-center text-black mb-0 max-w-770 mt-3'>Regular dry ice cleaning prevents costly rust and wear. Avoid potentially thousands of pounds worth of bodywork repairs when just for a fraction of that you can keep your car in prime condition all year round! What are you waiting for?</p>
                         <Comnbtn text="Get Instant Quote" spacing=" mt-40" />
