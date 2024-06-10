@@ -17,7 +17,7 @@ function List() {
         <>
             <div className="container" id="contact">
                 <div className="d-flex justify-content-center">
-                    <div className="mail-box position-relative transform-y-box px-2 px-sm-0" data-aos="fade-down">
+                    <div className="mail-box position-relative transform-y-box px-2 px-sm-0">
                         <Commonheading text="Join Our Mailing List" color=" text-white" align=" text-center" />
                         <p className=' ff-acumin-reg text-16 lh-24 text-center text-white mt-2'>Get news, videos and deals straight to your inbox.</p>
                         <div className="mail-input mx-auto">

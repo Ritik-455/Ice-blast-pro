@@ -21,7 +21,7 @@ import { useEffect } from 'react';
 
 function App() {
   useEffect(() => {
-    AOS.init({ once: true, duration: 1000, });
+    AOS.init({ once: true, });
   }, []);
   return (
     <>
