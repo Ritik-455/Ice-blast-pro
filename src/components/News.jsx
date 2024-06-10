@@ -1,8 +1,8 @@
 import React from 'react'
 import Commonheading from '../common/Commonheading'
-import news1 from '../assets/images/PNG/news-1.png'
-import news2 from '../assets/images/PNG/news-2.png'
-import news3 from '../assets/images/PNG/news-3.png'
+import news1 from '../assets/images/PNG/news-1.webp'
+import news2 from '../assets/images/PNG/news-2.webp'
+import news3 from '../assets/images/PNG/news-3.webp'
 import Comnbtn from '../common/Comnbtn'
 
 function News() {

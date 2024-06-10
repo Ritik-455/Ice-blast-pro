@@ -5,11 +5,11 @@ import Commonheading from '../common/Commonheading'
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import { EffectCoverflow, Pagination, Navigation } from 'swiper/modules';
-import slide1 from '../assets/images/PNG/slider-1.png'
-import slide2 from '../assets/images/PNG/slider-2.png'
-import slide3 from '../assets/images/PNG/slider-3.png'
-import slide4 from '../assets/images/PNG/slider-4.png'
-import slide5 from '../assets/images/PNG/slider-5.png'
+import slide1 from '../assets/images/PNG/slider-1.webp'
+import slide2 from '../assets/images/PNG/slider-2.webp'
+import slide3 from '../assets/images/PNG/slider-3.webp'
+import slide4 from '../assets/images/PNG/slider-4.webp'
+import slide5 from '../assets/images/PNG/slider-5.webp'
 import { Left, Right } from '../common/Icon';
 
 function Latest() {

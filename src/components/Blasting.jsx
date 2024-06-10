@@ -4,7 +4,7 @@ import clean from '../assets/images/SVG/cleaning.svg'
 import abras from '../assets/images/SVG/abrasive.svg'
 import res from '../assets/images/SVG/residue.svg'
 import book from '../assets/images/SVG/book.svg'
-import blast from '../assets/images/PNG/blasting.png'
+import blast from '../assets/images/PNG/blasting.webp'
 
 function Blasting() {
     return (

@@ -1,5 +1,5 @@
 import React from 'react'
-import team from '../assets/images/PNG/team.png'
+import team from '../assets/images/PNG/team.webp'
 import teamellips from '../assets/images/PNG/team-ellips.png'
 import Commonheading from '../common/Commonheading'
 import bottomlayer from '../assets/images/PNG/team-bottom-layer.png'

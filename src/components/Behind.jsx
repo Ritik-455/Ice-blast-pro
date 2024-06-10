@@ -2,7 +2,7 @@ import React from 'react'
 import behtoplayer from '../assets/images/PNG/behind-top-layer.png'
 import behbottomlayer from '../assets/images/PNG/blast-bottom-layer.png'
 import Commonheading from '../common/Commonheading'
-import blastcenter from '../assets/images/PNG/blast-center-img.png'
+import blastcenter from '../assets/images/PNG/blast-center-img.webp'
 import { Play } from '../common/Icon'
 import Comnbtn from '../common/Comnbtn'
 

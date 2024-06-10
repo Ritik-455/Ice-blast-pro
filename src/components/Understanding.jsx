@@ -2,8 +2,8 @@ import React from 'react'
 import toplayer from '../assets/images/PNG/top-layer.png'
 import bottomlayer from '../assets/images/PNG/bottom-layer.png'
 import Commonheading from '../common/Commonheading'
-import blastright from '../assets/images/PNG/blast-right-img.png'
-import blastleft from '../assets/images/PNG/blast-left.png'
+import blastright from '../assets/images/PNG/blast-right-img.webp'
+import blastleft from '../assets/images/PNG/blast-left.webp'
 
 function Understanding() {
     return (

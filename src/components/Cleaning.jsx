@@ -1,7 +1,7 @@
 import React from 'react'
 import Commonheading from '../common/Commonheading'
 import { Check, Play } from '../common/Icon'
-import Clean from '../assets/images/PNG/cleaning-img.png'
+import Clean from '../assets/images/PNG/cleaning-img.webp'
 import Comnbtn from '../common/Comnbtn'
 
 function Cleaning() {
